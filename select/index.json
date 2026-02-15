@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "傘",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-15T06:36:48.858837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "Kinokoteikoku",
+      "has_synced": true,
+      "path": "select/01_傘_Kinokoteikoku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "きのこ帝国",
+      "has_synced": true,
+      "path": "select/02_傘_きのこ帝国.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_傘_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "土岐麻子",
+      "has_synced": true,
+      "path": "select/04_傘_土岐麻子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "Toki, Asako",
+      "has_synced": true,
+      "path": "select/05_傘_Toki,_Asako.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "King Gnu - 傘  OFFICIAL AUDIO",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/06_King_Gnu_-_傘_OFFICIAL_AUDIO_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "Asako Toki",
+      "has_synced": true,
+      "path": "select/07_傘_Asako_Toki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "阿部真央",
+      "has_synced": true,
+      "path": "select/08_傘_阿部真央.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/09_傘_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/10_傘_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛・愛・傘",
+      "artist": "Juice=Juice",
+      "has_synced": true,
+      "path": "select/11_愛・愛・傘_Juice=Juice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "Anly",
+      "has_synced": true,
+      "path": "select/12_傘_Anly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "傘 - Umbrella",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/13_傘_-_Umbrella_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "傘",
+      "artist": "Eri Takenaka",
+      "has_synced": false,
+      "path": "select/14_傘_Eri_Takenaka.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "King Gnu - 傘  OFFICIAL AUDIO",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/15_King_Gnu_-_傘_OFFICIAL_AUDIO_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "傘 - Kasa",
+      "artist": "Kinokoteikoku",
+      "has_synced": true,
+      "path": "select/16_傘_-_Kasa_Kinokoteikoku.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "傘 - Umbrella",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/17_傘_-_Umbrella_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "傘",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_傘_King_Gnu.txt"
+    }
+  ]
+}
